@@ -5,4 +5,8 @@
     <string name="msg_logout">Are You Sure Want to Logout?</string>
     <string name="label_ok">Ok</string>
     <string name="label_cancel">Cancel</string>
+    <string name="label_dialog_with_data">Show Dialog With Data</string>
+    <string name="msg_hint_name">Name</string>
+    <string name="msg_enter_details">Enter Details</string>
+    <string name="label_submit">Submit</string>
 </resources>
